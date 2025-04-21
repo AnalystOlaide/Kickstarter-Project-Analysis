@@ -1,5 +1,5 @@
 
-## **Kickstarter Projects Analysis (2009-2017)**
+## **Kickstarter Projects Analysis**
 
 ### **Project Background**
 
